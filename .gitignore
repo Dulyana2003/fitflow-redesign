@@ -1,0 +1,5 @@
+# Flutter build/ .dart_tool/ .flutter-plugins .flutter-plugins-dependencies 
+# Node.js node_modules/ dist/ 
+# Python __pycache__/ *.pyc .venv/ 
+# Environment / secrets .env .env.local 
+# Editor .vscode/ .idea/
