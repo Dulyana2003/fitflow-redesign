@@ -48,3 +48,10 @@ app.*.map.json
 .widget_preview/
 
 /android/build/
+
+# Signing secrets (never commit)
+key.properties
+**/key.properties
+*.jks
+*.keystore
+
